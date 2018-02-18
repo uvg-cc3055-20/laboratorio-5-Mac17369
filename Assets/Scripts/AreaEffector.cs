@@ -1,4 +1,7 @@
-﻿using System.Collections;
+﻿//Kevin Macario 17369
+//Laboratorio 5: Effectors, joints, partículas y raycast
+//Clase de forceDown y forceUp
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
